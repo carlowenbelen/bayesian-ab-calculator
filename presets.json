@@ -1,0 +1,27 @@
+{
+  "email-headline": {
+    "description": "Email subject line A vs B. Clear winner in B.",
+    "a": {"name": "Original", "trials": 5000, "successes": 470},
+    "b": {"name": "New",      "trials": 5000, "successes": 555}
+  },
+  "checkout-button": {
+    "description": "Checkout CTA color test. Inconclusive — needs more data.",
+    "a": {"name": "Blue",  "trials": 1200, "successes": 96},
+    "b": {"name": "Green", "trials": 1180, "successes": 105}
+  },
+  "landing-page": {
+    "description": "New landing page underperforming. Strong signal to KILL.",
+    "a": {"name": "Current", "trials": 8000, "successes": 720},
+    "b": {"name": "New",     "trials": 8000, "successes": 600}
+  },
+  "small-sample": {
+    "description": "Tiny sample, big apparent lift, but not enough data yet.",
+    "a": {"name": "A", "trials": 100, "successes": 10},
+    "b": {"name": "B", "trials": 100, "successes": 18}
+  },
+  "tiebreaker": {
+    "description": "Almost-identical performance, large sample. Should KEEP TESTING then settle.",
+    "a": {"name": "A", "trials": 20000, "successes": 1980},
+    "b": {"name": "B", "trials": 20000, "successes": 2010}
+  }
+}
