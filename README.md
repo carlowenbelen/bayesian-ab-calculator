@@ -151,4 +151,4 @@ MIT — use it, fork it, ship something.
 
 ---
 
-Built by **Carl Owen E. Belen** &middot; companion to my [Trading Strategy Monte Carlo](https://github.com/YOUR-USERNAME/trading-strategy-monte-carlo) and [Portfolio Optimizer](https://github.com/YOUR-USERNAME/portfolio-optimizer) &middot; [Portfolio](https://github.com/YOUR-USERNAME)
+Built by **Carl Owen E. Belen** &middot; companion to my [Trading Strategy Monte Carlo](https://github.com/YOUR-USERNAME/trading-strategy-monte-carlo) and [Portfolio Optimizer](https://github.com/YOUR-USERNAME/portfolio-optimizer) &middot; [Portfolio](https://github.com/carlowenbelen)
