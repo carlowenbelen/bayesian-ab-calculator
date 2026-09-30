@@ -34,7 +34,7 @@ Easier to explain to non-statisticians, easier to act on, harder to abuse with p
 ## Quick start
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/bayesian-ab-calculator.git
+git clone https://github.com/carlowenbelen/bayesian-ab-calculator.git
 cd bayesian-ab-calculator
 pip install -r requirements.txt
 
@@ -151,4 +151,4 @@ MIT — use it, fork it, ship something.
 
 ---
 
-Built by **Carl Owen E. Belen** &middot; companion to my [Trading Strategy Monte Carlo](https://github.com/YOUR-USERNAME/trading-strategy-monte-carlo) and [Portfolio Optimizer](https://github.com/YOUR-USERNAME/portfolio-optimizer) &middot; [Portfolio](https://github.com/carlowenbelen)
+Built by **Carl Owen E. Belen** &middot; companion to my [Trading Strategy Monte Carlo](https://github.com/carlowenbelen/trading-strategy-monte-carlo) and [Portfolio Optimizer](https://github.com/carlowenbelen/portfolio-optimizer) &middot; [Portfolio](https://github.com/carlowenbelen)
